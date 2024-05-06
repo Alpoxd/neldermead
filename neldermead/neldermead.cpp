@@ -4,7 +4,6 @@
 #include <iomanip>
 #include <math.h>
 
-long  M_PI = 3.14159265359;
 class Vector {
 public:
     double x, y;
